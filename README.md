@@ -1,5 +1,3 @@
-Segue a versão ajustada do seu README, com melhorias na organização, correção de informações e formatação mais clara:
-
 ---
 
 # **Marketplace de Carros Usados**
