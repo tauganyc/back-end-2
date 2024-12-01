@@ -70,7 +70,6 @@ A API segue o padrão REST e conta com as seguintes rotas:
 
 Para rodar o projeto, você precisará:
 - **PHP 8.3 ou superior** - Compatível com PDO e extensões necessárias.
-- **Composer** - Para gerenciar dependências do projeto.
 - **MySQL 5.7 ou superior** - Banco de dados relacional para armazenar as informações.
 - **Docker (opcional)** - Para configurar um ambiente de desenvolvimento rápido com Docker Compose.
 
